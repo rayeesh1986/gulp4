@@ -1,0 +1,36 @@
+{
+  "name": "gulp-setup",
+  "version": "1.0.0",
+  "description": "gulp settings ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayeesh1986/gulp4.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Rayeesh Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayeesh1986/gulp4/issues"
+  },
+  "homepage": "https://github.com/rayeesh1986/gulp4#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.6",
+    "cssnano": "^4.1.10",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "save-dev": "0.0.1-security"
+  }
+}
